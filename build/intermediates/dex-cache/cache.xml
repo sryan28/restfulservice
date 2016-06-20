@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="389460a7b5353bc8d5ecd95ee98e1cc5fbbbe35a">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cee8ac90c01075a8e0bee7f6a4d96bda27e5a9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_4fb63b0b8c2f21ab7da5b16a33f8113fb0a62d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="aef528563c8f3b9c2dda93c55d11616a8c7a964a">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c850277a41b101975b6adf5dd9cb18d2c808a929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_071eff3d4d5fd65996482574a91304fa017a9414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_b9a6ca228ff04837df21b1725d6db99b42ed663d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_26deb558d365eb5b22e805bdc2086a9e3e57270c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_020a843bccfdb81949de9dab4ce7a33218d646a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_92ebbdf98f3ca7d324fb34e98b38c5357b7a10c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\user\Desktop\SandD\RestfulService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_3e78aa1bd5c1a50dd5ea1c641d7b14338aca1518\classes.dex" />
+    </item>
+
+</items>
